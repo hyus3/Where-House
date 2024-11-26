@@ -1,5 +1,5 @@
 # Where-House
 Technologies Used:  
-* Front End: Xamarin  
+* Front End: WPF  
 * Back End: C#  
 * Database: SQL  

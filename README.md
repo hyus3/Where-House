@@ -1,5 +1,5 @@
 # Where-House
-Technologies Used:
-  Front End: Xamarin\n
-  Back End: C#\n
-  Database: SQL\n
+Technologies Used:  
+  Front End: Xamarin  
+  Back End: C#  
+  Database: SQL  
